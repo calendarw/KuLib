@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Extensions\ConnectionString.cs" />
     <Compile Include="Extensions\StringExtensions.cs" />
     <Compile Include="Forms\InputBox.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
